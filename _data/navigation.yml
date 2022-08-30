@@ -1,16 +1,16 @@
 # main links links
 main:
- - title: "Research"
-     url: /cv/
+ #- title: "Research"
+#     url: /cv/
     
- - title: "Members"
-    url: /year-archive/
+# - title: "Members"
+#    url: /year-archive/
     
  - title: "Publications"
     url: /publications/
 
- - title: "Presentations"
-    url: /talks/    
+# - title: "Presentations"
+#    url: /talks/    
 
  - title: "Teaching"
     url: /teaching/    
@@ -21,8 +21,8 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-- title: "hiring"
-      url: /cv/
+# - title: "hiring"
+#      url: /cv/
     
     
 #  - title: "Guide"
